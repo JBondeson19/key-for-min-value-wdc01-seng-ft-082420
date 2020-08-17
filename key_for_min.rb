@@ -7,9 +7,8 @@ new_min = 0
   name_hash.each do |name, key|
     if key < min_int
     key = new_min
-    puts "{#name}"
 
     end
-  
+    puts "#{name}"
   end
 end
