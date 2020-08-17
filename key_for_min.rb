@@ -3,4 +3,8 @@
 
 def key_for_min_value(name_hash)
 
+name_hash.each do |name, key|
+  min = 501
+while key < min
+  puts "#{name}"
 end
