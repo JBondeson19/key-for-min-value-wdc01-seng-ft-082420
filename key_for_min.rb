@@ -10,6 +10,6 @@ new_min = 0
     puts "{#name}"
 
     end
-    new_min
+    p new_min
   end
 end
