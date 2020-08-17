@@ -8,7 +8,7 @@ new_min = 0
     if key < min_int
     key = new_min
     puts "{#name}"
-    
+
     end
     new_min
   end
